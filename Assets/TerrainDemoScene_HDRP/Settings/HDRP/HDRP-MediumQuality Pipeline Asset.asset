@@ -31,7 +31,7 @@ MonoBehaviour:
     supportVolumetricClouds: 0
     supportLightLayers: 0
     renderingLayerMaskBuffer: 0
-    supportWater: 0
+    supportWater: 1
     waterSimulationResolution: 128
     supportWaterExclusion: 1
     supportWaterDecals: 1
@@ -73,7 +73,7 @@ MonoBehaviour:
     supportDitheringCrossFade: 1
     supportRuntimeAOVAPI: 0
     supportTerrainHole: 0
-    lightProbeSystem: 0
+    lightProbeSystem: 1
     oldLightProbeSystem: 0
     probeVolumeMemoryBudget: 1024
     supportProbeVolumeGPUStreaming: 0
