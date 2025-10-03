@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: be58c995fde1dcf4995572d12267ed14
+guid: 13ec2ae26109ecb4f91cd9bec9ffa408
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -62,7 +62,7 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -97,7 +97,7 @@ TextureImporter:
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 1
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -137,5 +137,5 @@ AssetOrigin:
   productId: 213198
   packageName: Unity Terrain - HDRP Demo Scene
   packageVersion: 1.0.3
-  assetPath: Assets/TerrainDemoScene_HDRP/Terrain/Textures/Heather_A/Heather_A_BaseColor.tif
+  assetPath: Assets/TerrainDemoScene_HDRP/Terrain/Textures/Cliff_Mossy_E/Cliff_Mossy_E_BaseColor.tif
   uploadId: 727864

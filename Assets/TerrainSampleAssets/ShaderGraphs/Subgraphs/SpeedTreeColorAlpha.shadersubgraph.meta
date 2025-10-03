@@ -13,5 +13,5 @@ AssetOrigin:
   productId: 213198
   packageName: Unity Terrain - HDRP Demo Scene
   packageVersion: 1.0.3
-  assetPath: Assets/TerrainSampleAssets/ShaderGraphs/SubGraphs/SpeedTreeColorAlpha.shadersubgraph
+  assetPath: Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/SpeedTreeColorAlpha.shadersubgraph
   uploadId: 727864

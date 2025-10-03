@@ -13,5 +13,5 @@ AssetOrigin:
   productId: 213198
   packageName: Unity Terrain - HDRP Demo Scene
   packageVersion: 1.0.3
-  assetPath: Assets/TerrainSampleAssets/ShaderGraphs/SubGraphs/TerrainMatchUV.shadersubgraph
+  assetPath: Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/TerrainMatchUV.shadersubgraph
   uploadId: 727864
